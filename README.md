@@ -4,3 +4,5 @@
   <img src="https://github.com/Spelljinxer/Spelljinxer/blob/main/img/ghub new.png"><br>
 </p>
 <img align="center"src="https://github-readme-stats.vercel.app/api?username=Spelljinxer&theme=material-palenight&show_icons=true">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spelljinxer"/>
