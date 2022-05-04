@@ -5,7 +5,7 @@
   <br>
   <img align="center"src="https://github-readme-stats.vercel.app/api?username=Spelljinxer&theme=material-palenight&show_icons=true&count_private=true"><br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spelljinxer"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spelljinxer&layout=compact"/>
 </p>
 <p align="center">
 
