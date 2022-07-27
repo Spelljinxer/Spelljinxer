@@ -1,7 +1,7 @@
 <!-- Author: Spelljinxer -->
 # <p align="center"><img height="50" width="50" src="https://i.redd.it/tsqu2c4rbda71.gif"><img height="50" width="50" src="https://i.redd.it/tsqu2c4rbda71.gif"><img height="50" width="50" src="https://i.redd.it/tsqu2c4rbda71.gif"><img height="50" width="50" src="https://i.redd.it/tsqu2c4rbda71.gif"><img height="50" width="50" src="https://i.redd.it/tsqu2c4rbda71.gif"><img height="50" width="50" src="https://i.redd.it/tsqu2c4rbda71.gif"><img height="50" width="50" src="https://i.redd.it/tsqu2c4rbda71.gif"><img height="50" width="50" src="https://i.redd.it/tsqu2c4rbda71.gif"><img height="50" width="50" src="https://i.redd.it/tsqu2c4rbda71.gif"><img height="50" width="50" src="https://i.redd.it/tsqu2c4rbda71.gif"><img height="50" width="50" src="https://i.redd.it/tsqu2c4rbda71.gif"><img height="50" width="50" src="https://i.redd.it/tsqu2c4rbda71.gif"></p>
 <p align="center">
-  <img src="https://github.com/Spelljinxer/Spelljinxer/blob/main/img/ayaka transparent bg.png"><br></p>
+  <img src="https://github.com/Spelljinxer/Spelljinxer/blob/main/img/ayaka transparent bg.png" | width=550><br></p>
   <br>
   
 ---
