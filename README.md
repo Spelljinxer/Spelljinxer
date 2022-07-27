@@ -1,6 +1,6 @@
 <!-- Author: Spelljinxer -->
 
-# <p align="center"><img height="50" width="50" src="https://i.redd.it/tsqu2c4rbda71.gif">𝒲𝑒𝓁𝒸𝑜𝓂𝑒<img height="50" width="50" src="https://i.redd.it/tsqu2c4rbda71.gif"></p>
+# <p align="center"><img height="50" width="50" align="left" src="https://i.redd.it/tsqu2c4rbda71.gif">  𝒲𝑒𝓁𝒸𝑜𝓂𝑒 <img height="50" width="50" align="right" src="https://i.redd.it/tsqu2c4rbda71.gif"></p>
 <p align="center">
   <!-- <img src="https://github.com/Spelljinxer/Spelljinxer/blob/main/img/ayaka transparent bg.png" | width=550><br> -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula">
@@ -9,11 +9,13 @@
 # Who Am I ? 😴
 
 * 📆 20 year old student
-* 🎓 Studies at <a href="https://www.uwa.edu.au/">The University of Western Australia</a>
-* 💻 Computer Science Major
+* 🎓 Studies at <a href="https://www.uwa.edu.au/">The University of Western Australia</a> <img src="./img/26db8061a1c7e00525ba43150092ae55.gif" align="right" width=150px></img>
+* 💻 Computer Science Major 
 * ❤️ Anime, Manga
 * 🎲 Genshin Impact, Honkai Impact 3
 * 💙 Programming, Graphic Design
+
+
 <br>
 
 
