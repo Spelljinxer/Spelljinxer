@@ -47,7 +47,7 @@
 
 ```Java
 try{
-  Use100%Brain();
+  Use_Brain();
 } 
 except(Exception e){
   System.out.println("Brain is not initialized");
