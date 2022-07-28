@@ -1,5 +1,6 @@
 <!-- Author: Spelljinxer -->
 <img align="center" src="./img/welcome.png">
+<br>
 
 # Hello 👋
 <p align="center">
@@ -29,11 +30,8 @@
 
 # Stats 📈 
 <p align="center">
-<img width=350 src="https://github-readme-stats.vercel.app/api?username=Spelljinxer&theme=dracula&show_icons=true&count_private=true">&nbsp;<img  width=292 src="https://github-readme-stats.vercel.app/api/top-langs?username=Spelljinxer&layout=compact&custom_title=Languages Used:&theme=dracula"/><br><!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spelljinxer&theme=dracula" alt="mystreak"/> -->
-<br>
-<br>
+<img width=351 src="https://github-readme-stats.vercel.app/api?username=Spelljinxer&theme=dracula&show_icons=true&count_private=true">&nbsp;<img  width=294 src="https://github-readme-stats.vercel.app/api/top-langs?username=Spelljinxer&layout=compact&custom_title=Languages Used:&theme=dracula"/><br><!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spelljinxer&theme=dracula" alt="mystreak"/> -->
 </p>
-
 
 # Links 🔗
 <p align="center">
