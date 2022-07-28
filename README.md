@@ -1,6 +1,5 @@
 <!-- Author: Spelljinxer -->
 <img align="center" src="./img/welcome.png">
-<br>
 
 # Hello 👋
 <p align="center">
@@ -50,5 +49,3 @@
 </span>Yukino
 </p>
 
-
-<!-- lorem ipsum dolor sit amet-->
