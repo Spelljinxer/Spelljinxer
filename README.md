@@ -33,14 +33,13 @@
 <br></center>
 
 # Stats 📈 
-
 <p align="center">
-  <img align="left" width=350 src="https://github-readme-stats.vercel.app/api?username=Spelljinxer&theme=dracula&show_icons=true&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spelljinxer&layout=compact&custom_title=Languages Used:"/>
-  <br>
-  <br>
+<img width=350 src="https://github-readme-stats.vercel.app/api?username=Spelljinxer&theme=dracula&show_icons=true&count_private=true">&nbsp;<img  width=292 src="https://github-readme-stats.vercel.app/api/top-langs?username=Spelljinxer&layout=compact&custom_title=Languages Used:&theme=dracula"/><br>
+<br>
+<br>
 </p>
 
----
+#
 <p align="center">
    <img src="https://lanyard.cnrad.dev/api/216594576247488513">
 </p>
