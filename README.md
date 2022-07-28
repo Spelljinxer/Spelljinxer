@@ -29,7 +29,7 @@
 
 # Stats 📈 
 <p align="center">
-<img width=350 src="https://github-readme-stats.vercel.app/api?username=Spelljinxer&theme=dracula&show_icons=true&count_private=true">&nbsp;<img  width=292 src="https://github-readme-stats.vercel.app/api/top-langs?username=Spelljinxer&layout=compact&custom_title=Languages Used:&theme=dracula"/><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=Spelljinxer&theme=dracula" alt="mystreak"/>
+<img width=350 src="https://github-readme-stats.vercel.app/api?username=Spelljinxer&theme=dracula&show_icons=true&count_private=true">&nbsp;<img  width=292 src="https://github-readme-stats.vercel.app/api/top-langs?username=Spelljinxer&layout=compact&custom_title=Languages Used:&theme=dracula"/><br><!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spelljinxer&theme=dracula" alt="mystreak"/> -->
 <br>
 <br>
 </p>
@@ -38,7 +38,7 @@
 # Links 🔗
 <p align="center">
 <br><br>
-<a href="https://steamcommunity.com/id/spelljinxer/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a><a href="https://open.spotify.com/user/necj33rd3m1wb5klvdjtp4z1q?si=be17277a60be486b"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://www.twitch.tv/Spelljinxer"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a><br><img align="center" src="https://lanyard.cnrad.dev/api/216594576247488513"></img><br><br>
+<a href="https://steamcommunity.com/id/spelljinxer/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a><a href="https://open.spotify.com/user/necj33rd3m1wb5klvdjtp4z1q?si=be17277a60be486b"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://www.twitch.tv/Spelljinxer"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a><br><a href=""><img align="center" src="https://lanyard.cnrad.dev/api/216594576247488513"></img></a><br><br>
 <img align="center" width=45% src="./img/noodles.gif">
 </p><br>
 <p align="center"> 
