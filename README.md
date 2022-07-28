@@ -33,7 +33,7 @@
 
 # Stats 📈 
 <p align="center">
-<img width=350 src="https://github-readme-stats.vercel.app/api?username=Spelljinxer&theme=dracula&show_icons=true&count_private=true">&nbsp;<img  width=292 src="https://github-readme-stats.vercel.app/api/top-langs?username=Spelljinxer&layout=compact&custom_title=Languages Used:&theme=dracula"/><br>
+<img width=350 src="https://github-readme-stats.vercel.app/api?username=Spelljinxer&theme=dracula&show_icons=true&count_private=true">&nbsp;<img  width=292 src="https://github-readme-stats.vercel.app/api/top-langs?username=Spelljinxer&layout=compact&custom_title=Languages Used:&theme=dracula"/><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=Spelljinxer&theme=dracula" alt="mystreak"/>
 <br>
 <br>
 </p>
@@ -60,5 +60,4 @@ except(Exception e){
 <img align="center" width=522 src="./img/noodles.gif">
 
 </p>
-
 
