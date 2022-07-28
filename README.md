@@ -1,10 +1,6 @@
 <!-- Author: Spelljinxer -->
 <img align="center" src="./img/welcome.png">
 
-<!-- old welcome
-# <p align="center"><img height="50" width="50" align="left" src="https://i.redd.it/tsqu2c4rbda71.gif">  𝒲𝑒𝓁𝒸𝑜𝓂𝑒 <img height="50" width="50" align="right" src="https://i.redd.it/tsqu2c4rbda71.gif"></p> -->
-
-
 # Hello 👋
 <p align="center">
 
