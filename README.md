@@ -1,9 +1,10 @@
 <!-- Author: Spelljinxer -->
+<img align="center" src="./img/welcome.png">
 
-# <p align="center"><img height="50" width="50" align="left" src="https://i.redd.it/tsqu2c4rbda71.gif">  𝒲𝑒𝓁𝒸𝑜𝓂𝑒 <img height="50" width="50" align="right" src="https://i.redd.it/tsqu2c4rbda71.gif"></p>
+<!-- # <p align="center"><img height="50" width="50" align="left" src="https://i.redd.it/tsqu2c4rbda71.gif">  𝒲𝑒𝓁𝒸𝑜𝓂𝑒 <img height="50" width="50" align="right" src="https://i.redd.it/tsqu2c4rbda71.gif"></p> -->
 <p align="center">
   <!-- <img src="https://github.com/Spelljinxer/Spelljinxer/blob/main/img/ayaka transparent bg.png" | width=550><br> -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula">
+  <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"> -->
 </p>
 
 # Hello 👋
@@ -46,15 +47,15 @@
 <a href="https://steamcommunity.com/id/spelljinxer/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a><a href="https://open.spotify.com/user/necj33rd3m1wb5klvdjtp4z1q?si=be17277a60be486b"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://www.twitch.tv/Spelljinxer"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a><br><img align="center" src="https://lanyard.cnrad.dev/api/216594576247488513"></img><br><br>
 <img align="center" width=45% src="./img/noodles.gif">
 </p><br>
-<p align="center">
+<p align="center"> 
+<!-- White for now since markdown doesnt support this gg -->
 "If all you're good for is breathing in and out,
 <span style="color:#fe6d95">
   then even an AC unit is more useful than you."
 </span><br>
 - <span style="color:#78d9f9">
   Yukinoshita
-</span>
-Yukino
+</span>Yukino
 </p>
 
 
