@@ -35,7 +35,7 @@
 # Stats 📈 
 
 <p align="center">
-  <img align="center"src="https://github-readme-stats.vercel.app/api?username=Spelljinxer&theme=material-palenight&show_icons=true&bg_color=45,3d3e65,bbc1e5&text_color=fcfcfe&title_color=fcfcfe&icon_color=fcfcfe&border_color=fcfcfe&count_private=true"><br>
+  <img align="center"src="https://github-readme-stats.vercel.app/api?username=Spelljinxer&theme=dracula&show_icons=true&count_private=true"><br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spelljinxer&layout=compact&custom_title=Languages Used:"/>
 </p>
