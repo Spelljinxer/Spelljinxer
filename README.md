@@ -5,7 +5,7 @@
 <p align="center">
 
 * 📆 20 year old student
-* 🎓 Studies at <a href="https://www.uwa.edu.au/">The University of Western Australia</a> <img src="./img/26db8061a1c7e00525ba43150092ae55.gif" align="right" width=150px></img>
+* 🎓 Third-year undergrad at <a href="https://www.uwa.edu.au/">The University of Western Australia</a> <img src="./img/26db8061a1c7e00525ba43150092ae55.gif" align="right" width=150px></img>
 * 💻 Computer Science Major
 * ❤️ Anime, Manga, Games
   * <img width=20 src="./img/genshinicon.png"> Genshin Impact
