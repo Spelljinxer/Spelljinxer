@@ -1,11 +1,9 @@
 <!-- Author: Spelljinxer -->
 <img align="center" src="./img/welcome.png">
 
-<!-- # <p align="center"><img height="50" width="50" align="left" src="https://i.redd.it/tsqu2c4rbda71.gif">  𝒲𝑒𝓁𝒸𝑜𝓂𝑒 <img height="50" width="50" align="right" src="https://i.redd.it/tsqu2c4rbda71.gif"></p> -->
-<p align="center">
-  <!-- <img src="https://github.com/Spelljinxer/Spelljinxer/blob/main/img/ayaka transparent bg.png" | width=550><br> -->
-  <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"> -->
-</p>
+<!-- old welcome
+# <p align="center"><img height="50" width="50" align="left" src="https://i.redd.it/tsqu2c4rbda71.gif">  𝒲𝑒𝓁𝒸𝑜𝓂𝑒 <img height="50" width="50" align="right" src="https://i.redd.it/tsqu2c4rbda71.gif"></p> -->
+
 
 # Hello 👋
 <p align="center">
