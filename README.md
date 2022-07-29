@@ -10,6 +10,7 @@
 * ❤️ Anime, Manga, Games
   * <img width=20 src="./img/genshinicon.png"> Genshin Impact
   * <img width=20 src="./img/honkaiicon.png"> Honkai Impact 3
+  * <img width=20 src="./img/emil.png"> Nier Replicant / Automata
 * 💙 Programming, Graphic Design
 
 
