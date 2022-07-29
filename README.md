@@ -12,14 +12,14 @@
     <summary>📺 Favourite Animes</summary>
     <ul>
       <li><a href="https://anilist.co/anime/14813/My-Teen-Romantic-Comedy-SNAFU/"> Oregairu</li>
-      <li><a href="https://anilist.co/manga/105577/Giji-Harem/"> Giji Harem</li>
-      <li><a href="https://anilist.co/manga/107282/Shikimoris-Not-Just-a-Cutie/"> Shikimori's Not Just a Cutie </li> </a></ul></details>
+      <li><a href="https://anilist.co/anime/7791/KON-Season-2/"> K-On!!</li>
+      <li><a href="https://anilist.co/anime/5081/Bakemonogatari/"> Monogatari </li> </a></ul></details>
   * <details>
     <summary>📖 Favourite Mangas</summary>
     <ul>
       <li><a href="https://anilist.co/manga/101177/Fly-Me-to-the-Moon/"> Tonikaku Kawaii</li>
-      <li><a href="https://anilist.co/anime/7791/KON-Season-2/"> K-On!!</li>
-      <li><a href="https://anilist.co/anime/5081/Bakemonogatari/"> Monogatari </li> </a></ul></details>
+      <li><a href="https://anilist.co/manga/105577/Giji-Harem/"> Giji Harem</li>
+      <li><a href="https://anilist.co/manga/107282/Shikimoris-Not-Just-a-Cutie/"> Shikimori's Not Just a Cutie </li> </a></ul></details>
   * <details>
     <summary>🎮 Favourite Games</summary>
     <ul>
