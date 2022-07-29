@@ -1,16 +1,21 @@
 <!-- Author: Spelljinxer -->
 <img align="center" src="./img/welcome.png">
 
-# Hello 👋
+# Hello! 👋
 <p align="center">
 
 * 📆 20 year old student
-* 🎓 Third-year undergrad at <a href="https://www.uwa.edu.au/">The University of Western Australia</a> <img src="./img/26db8061a1c7e00525ba43150092ae55.gif" align="right" width=150px></img>
-* 💻 Computer Science Major
+* 🎓 Third-year undergrad at <a href="https://www.uwa.edu.au/">The University of Western Australia</a>
+* 💻  <img src="./img/26db8061a1c7e00525ba43150092ae55.gif" align="right" width=150px></img>Computer Science Major
 * ❤️ Anime, Manga, Games
-  * <img width=20 src="./img/genshinicon.png"> Genshin Impact
-  * <img width=20 src="./img/honkaiicon.png"> Honkai Impact 3
-  * <img width=20 src="./img/emil.png"> Nier Replicant / Automata
+* <details>
+  <summary>🎮 Favourite Games</summary>
+  <ul>
+    <li><img width=20 src="./img/genshinicon.png"> Genshin Impact</li>
+    <li><img width=20 src="./img/honkaiicon.png"> Honkai Impact 3 </li>
+    <li><img width=20 src="./img/emil.png"> Nier Replicant / Automata</li>
+  </ul>
+  </details>
 * 💙 Programming, Graphic Design
 
 
@@ -36,7 +41,7 @@
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spelljinxer&theme=dracula" alt="mystreak"/> -->
 </p>
 
-# Links 🔗
+# Links 📤
 <p align="center">
 <a href="https://steamcommunity.com/id/spelljinxer/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a><a href="https://open.spotify.com/user/necj33rd3m1wb5klvdjtp4z1q?si=be17277a60be486b"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://www.twitch.tv/Spelljinxer"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"><a href="https://anilist.co/user/Kyokino/"><img src="https://img.shields.io/badge/AniList-AniList-blue?style=for-the-badge&logo=Anilist&logoColor=white&labelColor=blue&color=blue&label="></a></a><br><a href=""><img align="center" src="https://lanyard.cnrad.dev/api/216594576247488513"></img></a><br><br>
 <img align="center" width=45% src="./img/noodles.gif">
