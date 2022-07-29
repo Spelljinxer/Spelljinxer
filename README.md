@@ -5,21 +5,21 @@
 <p align="center">
 
 * 📆 20 year old student
-* 🎓 Third-year undergrad at <a href="https://www.uwa.edu.au/">The University of Western Australia</a>
+* 🎓 Third-year undergrad at <a href="https://www.uwa.edu.au/" target="_blank">The University of Western Australia</a>
 * 💻  <img src="./img/26db8061a1c7e00525ba43150092ae55.gif" align="right" width=150px></img>Computer Science Major
 * ❤️ Anime, Manga, Games
   * <details><summary>📺 Favourite Animes</summary>
     <ul>
-      <li><a href="https://anilist.co/anime/14813/My-Teen-Romantic-Comedy-SNAFU/"> Oregairu</li>
-      <li><a href="https://anilist.co/anime/7791/KON-Season-2/"> K-On!!</li>
-      <li><a href="https://anilist.co/anime/5081/Bakemonogatari/"> Monogatari </li></a>
+      <li><a href="https://anilist.co/anime/14813/My-Teen-Romantic-Comedy-SNAFU/" target="_blank"> Oregairu</li>
+      <li><a href="https://anilist.co/anime/7791/KON-Season-2/" target="_blank"> K-On!!</li>
+      <li><a href="https://anilist.co/anime/5081/Bakemonogatari/" target="_blank"> Monogatari </li></a>
     </ul>
     </details>
   * <details><summary>📖 Favourite Mangas</summary>
     <ul>
-      <li><a href="https://anilist.co/manga/101177/Fly-Me-to-the-Moon/"> Tonikaku Kawaii</li>
-      <li><a href="https://anilist.co/manga/105577/Giji-Harem/"> Giji Harem</li>
-      <li><a href="https://anilist.co/manga/107282/Shikimoris-Not-Just-a-Cutie/"> Shikimori's Not Just a Cutie </li></a>
+      <li><a href="https://anilist.co/manga/101177/Fly-Me-to-the-Moon/" target="_blank"> Tonikaku Kawaii</li>
+      <li><a href="https://anilist.co/manga/105577/Giji-Harem/" target="_blank"> Giji Harem</li>
+      <li><a href="https://anilist.co/manga/107282/Shikimoris-Not-Just-a-Cutie/" target="_blank"> Shikimori's Not Just a Cutie </li></a>
     </ul>
     </details>
   * <details><summary>🎮 Favourite Games</summary>
@@ -56,7 +56,7 @@
 
 # Links 📤
 <p align="center">
-<a href="https://steamcommunity.com/id/spelljinxer/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a><a href="https://open.spotify.com/user/necj33rd3m1wb5klvdjtp4z1q?si=be17277a60be486b"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://www.twitch.tv/Spelljinxer"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"><a href="https://anilist.co/user/Kyokino/"><img src="https://img.shields.io/badge/AniList-AniList-blue?style=for-the-badge&logo=Anilist&logoColor=white&labelColor=blue&color=blue&label="></a></a><br><a href=""><img align="center" src="https://lanyard.cnrad.dev/api/216594576247488513"></img></a><br><br>
+<a href="https://steamcommunity.com/id/spelljinxer/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a><a href="https://open.spotify.com/user/necj33rd3m1wb5klvdjtp4z1q?si=be17277a60be486b" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://www.twitch.tv/Spelljinxer" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"><a href="https://anilist.co/user/Kyokino/" target="_blank"><img src="https://img.shields.io/badge/AniList-AniList-blue?style=for-the-badge&logo=Anilist&logoColor=white&labelColor=blue&color=blue&label="></a></a><br><a href=""><img align="center" src="https://lanyard.cnrad.dev/api/216594576247488513" target="_blank"></img></a><br><br>
 <img align="center" width=45% src="./img/noodles.gif">
 </p>
 <p align="center"> 
