@@ -8,24 +8,30 @@
 * 🎓 Third-year undergrad at <a href="https://www.uwa.edu.au/">The University of Western Australia</a>
 * 💻  <img src="./img/26db8061a1c7e00525ba43150092ae55.gif" align="right" width=150px></img>Computer Science Major
 * ❤️ Anime, Manga, Games
-  * <details>
+    <details>
     <summary>📺 Favourite Animes</summary>
     <ul>
       <li><a href="https://anilist.co/anime/14813/My-Teen-Romantic-Comedy-SNAFU/"> Oregairu</li>
       <li><a href="https://anilist.co/anime/7791/KON-Season-2/"> K-On!!</li>
-      <li><a href="https://anilist.co/anime/5081/Bakemonogatari/"> Monogatari </li> </a></ul></details>
-  * <details>
+      <li><a href="https://anilist.co/anime/5081/Bakemonogatari/"> Monogatari </li></a>
+    </ul>
+    </details>
+   <details>
     <summary>📖 Favourite Mangas</summary>
     <ul>
       <li><a href="https://anilist.co/manga/101177/Fly-Me-to-the-Moon/"> Tonikaku Kawaii</li>
       <li><a href="https://anilist.co/manga/105577/Giji-Harem/"> Giji Harem</li>
-      <li><a href="https://anilist.co/manga/107282/Shikimoris-Not-Just-a-Cutie/"> Shikimori's Not Just a Cutie </li> </a></ul></details>
-  * <details>
+      <li><a href="https://anilist.co/manga/107282/Shikimoris-Not-Just-a-Cutie/"> Shikimori's Not Just a Cutie </li></a>
+    </ul>
+    </details>
+   <details>
     <summary>🎮 Favourite Games</summary>
     <ul>
       <li><img width=20 src="./img/genshinicon.png"> Genshin Impact</li>
       <li><img width=20 src="./img/honkaiicon.png"> Honkai Impact 3 </li>
-      <li><img width=20 src="./img/emil.png"> Nier Replicant / Automata</li></ul></details>
+      <li><img width=20 src="./img/emil.png"> Nier Replicant / Automata</li>
+    </ul>
+    </details>
 * 💙 Programming, Graphic Design
 
 
