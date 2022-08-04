@@ -31,6 +31,7 @@
     </ul>
     </details>
 * 💙 Programming, Graphic Design
+* 🌐 <a href="https://spelljinxer.github.io/">spelljinxer.github.io</a>
 
 
 # Knowledge 🧠
