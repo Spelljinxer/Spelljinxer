@@ -67,13 +67,10 @@
 <a href="https://steamcommunity.com/id/spelljinxer/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a><a href="https://open.spotify.com/user/necj33rd3m1wb5klvdjtp4z1q?si=be17277a60be486b"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://www.twitch.tv/Spelljinxer"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"><a href="https://anilist.co/user/Kyokino/"><img src="https://img.shields.io/badge/AniList-AniList-blue?style=for-the-badge&logo=Anilist&logoColor=white&labelColor=blue&color=blue&label="></a></a><br><img align="center" src="https://lanyard.cnrad.dev/api/216594576247488513" alt="lanyard"></img><br><br>
 <img align="center" width=45% src="./img/noodles.gif">
 </p>
-<p align="center"> 
-<!-- White for now since markdown doesnt support this gg -->
-"If all you're good for is breathing in and out,
-<span style="color:#fe6d95">
-  then even an AC unit is more useful than you."
-</span><br>
-- <span style="color:#78d9f9">
-  Yukinoshita
-</span>Yukino
-</p>
+<div align="center">
+
+```console
+"If all you're good for is breathing in and out, then even an AC unit is more useful than you."
+- Yukinoshita Yukino
+```
+</div>
