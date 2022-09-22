@@ -69,7 +69,7 @@
 </p>
 <div align="center">
 
-```console
+```scala
 "If all you're good for is breathing in and out, then even an AC unit is more useful than you."
 - Yukinoshita Yukino
 ```
