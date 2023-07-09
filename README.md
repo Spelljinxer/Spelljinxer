@@ -9,9 +9,9 @@
 # Hello! 👋
 <p align="center">
 
-* 📆 20 year old uni student
-* 🎓 Fourth-year undergrad at <a href="https://www.uwa.edu.au/">The University of Western Australia</a>
-* 💻  <img src="./img/26db8061a1c7e00525ba43150092ae55.gif" align="right" width=150px></img>Computer Science Major
+* 📆 24/07/02
+* 🎓 BSc. Computer Science - <a href="https://www.uwa.edu.au/">The University of Western Australia</a>
+<img src="./img/test1.gif" align="right" width=150px></img>
 * ❤️ Anime, Manga, Games
   * <details><summary>📺 Favourite Animes</summary>
     <ul>
@@ -31,7 +31,6 @@
   * <details><summary>🎮 Favourite Games</summary>
     <ul>
       <li><img width=20 src="./img/genshinicon.png"> Genshin Impact</li>
-      <li><img width=20 src="./img/honkaiicon.png"> Honkai Impact 3 </li>
       <li><img width=20 src="./img/nikke.png"> Goddess of Victory: Nikke </li>
       <li><img width=20 src="./img/emil.png"> Nier Replicant / Automata</li>
       <li><img width=20 src="./img/2hu.ico"> Touhou Project</li>
