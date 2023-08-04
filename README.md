@@ -70,7 +70,7 @@
 <div align="center">
 
 ```scala
-"If all you're good for is breathing in and out, then even an AC unit is more useful than you."
-- Yukinoshita Yukino
+"Perfecting oneself is as much unlearning as it is learning."
+- Edsger Dijkstra
 ```
 </div>
