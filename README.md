@@ -1,6 +1,6 @@
 <!-- Author: Spelljinxer -->
 
-<img align="center" src="./img/profilebanner.png">
+<img align="center" src="./img/profilebanner2.png">
 <br>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=15&duration=3500&pause=1000&color=E46D91&center=true&width=435&lines=01001000+01000101+01001110+01010100+01000001+01001001"></img>
