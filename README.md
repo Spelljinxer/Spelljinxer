@@ -8,7 +8,11 @@
 </p>
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spelljinxer&repo=dotfiles&show_owner=true)](https://github.com/Spelljinxer/dotfiles)
+<div align="center">
+  <a href="https://github.com/Spelljinxer/dotfiles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spelljinxer&repo=dotfiles&show_owner=true" alt="ReadMe Card" width="400">
+  </a>
+</div>
 
 
 # Hello! 👋
