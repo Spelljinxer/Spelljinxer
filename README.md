@@ -7,6 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=15&duration=3500&pause=1000&color=E46D91&center=true&width=435&lines=01010111+01100101+01101100+01100011+01101111+01101101+01100101"></img>
 </p>
 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spelljinxer&repo=dotfiles&show_owner=true)](https://github.com/Spelljinxer/dotfiles)
+
+
 # Hello! 👋
 <p align="center">
 
@@ -65,7 +69,7 @@
 
 # Links 📤
 <p align="center">
-<a href="https://steamcommunity.com/id/spelljinxer/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a><a href="https://open.spotify.com/user/necj33rd3m1wb5klvdjtp4z1q?si=be17277a60be486b"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://www.twitch.tv/Spelljinxer"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"><a href="https://anilist.co/user/Kyokino/"><img src="https://img.shields.io/badge/AniList-AniList-blue?style=for-the-badge&logo=Anilist&logoColor=white&labelColor=blue&color=blue&label="></a></a><br><img align="center" src="https://lanyard.cnrad.dev/api/216594576247488513?animated=true&borderRadius=25px&theme=light&bg=d98b8e&idleMessage=Pondering%20One's%20Curiosity..." alt="lanyard"></img><br><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=necj33rd3m1wb5klvdjtp4z1q&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=977dde&bar_color_cover=false"></img><br><br>
+<a href="https://steamcommunity.com/id/spelljinxer/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a><a href="https://open.spotify.com/user/necj33rd3m1wb5klvdjtp4z1q?si=be17277a60be486b"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://www.twitch.tv/Spelljinxer"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"><a href="https://anilist.co/user/Kyokino/"><img src="https://img.shields.io/badge/AniList-AniList-blue?style=for-the-badge&logo=Anilist&logoColor=white&labelColor=blue&color=blue&label="></a></a><br><img align="center" src="https://lanyard.cnrad.dev/api/216594576247488513?animated=true&borderRadius=25px&theme=light&bg=d98b8e&idleMessage=Pondering%20One's%20Curiosity..." alt="lanyard"></img><br><br>
 <img align="center" width=45% src="./img/noodles.gif"><br><br>
 </p>
 <div align="center">
