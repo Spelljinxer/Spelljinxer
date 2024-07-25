@@ -72,7 +72,7 @@
 <div align="center">
 
 ```scala
-"Perfecting oneself is as much unlearning as it is learning."
-- Edsger Dijkstra
+"jus vibin'"
+- someone, probably. idk
 ```
 </div>
