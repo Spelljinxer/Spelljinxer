@@ -1,5 +1,5 @@
 <!-- Author: Spelljinxer -->
-<img align="center" src="./img/banner.png">
+<img align="center" src="./img/flowers.png">
 <br>
 <p align="center">
 <!-- old:  01001000+01000101+01001110+01010100+01000001+01001001-->
