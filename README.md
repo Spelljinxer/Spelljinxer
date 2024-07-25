@@ -21,7 +21,7 @@
 * 📆 24/07/02
 * 🎓 BSc. Computer Science - <a href="https://www.uwa.edu.au/">The University of Western Australia</a>
 <img src="./img/test1.gif" align="right" width=150px></img>
-* ❤️ Anime, Manga, Games
+* ❤️ Anime and Gaming
   * <details><summary>📺 Favourite Animes</summary>
     <ul>
       <li><a href="https://anilist.co/anime/14813/My-Teen-Romantic-Comedy-SNAFU/"> Oregairu</li>
@@ -29,18 +29,11 @@
       <li><a href="https://anilist.co/anime/5081/Bakemonogatari/"> Monogatari </li></a>
     </ul>
     </details>
-  * <details><summary>📖 Favourite Mangas</summary>
-    <ul>
-      <li><a href="https://anilist.co/manga/105577/Giji-Harem/"> Giji Harem</li>
-      <li><a href="https://anilist.co/manga/107282/Shikimoris-Not-Just-a-Cutie/"> Shikimori's Not Just a Cutie </li>
-      <li><a href="https://anilist.co/manga/101177/Fly-Me-to-the-Moon/"> Tonikaku Kawaii </li>
-      <li><a href="https://anilist.co/manga/112981/Kubo-Wont-Let-Me-Be-Invisible/"> Kubo Won't Let Me Be Invisible </li></a>
-    </ul>
-    </details>
   * <details><summary>🎮 Favourite Games</summary>
     <ul>
       <li><img width=20 src="./img/genshinicon.png"> Genshin Impact</li>
       <li><img width=20 src="./img/nikke.png"> Goddess of Victory: Nikke </li>
+      <li><img width=20 src="./img/wuwa.png"> Wuthering Waves </li>
       <li><img width=20 src="./img/emil.png"> Nier Replicant / Automata</li>
       <li><img width=20 src="./img/2hu.ico"> Touhou Project</li>
     </ul>
