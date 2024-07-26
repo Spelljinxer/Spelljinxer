@@ -7,15 +7,11 @@
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=15&duration=3500&pause=1000&color=E46D91&center=true&width=435&lines=01010111+01100101+01101100+01100011+01101111+01101101+01100101"></img> -->
   <img src="./img/cat2.gif" alt="cat" width="120">
 </p>
-
-
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Spelljinxer/dotfiles">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=spelljinxer&repo=dotfiles&show_owner=true" alt="ReadMe Card" width="400">
   </a>
-</div>
-
-
+</div> -->
 # Hello! 👋
 <p align="center">
 
