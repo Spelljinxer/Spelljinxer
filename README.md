@@ -4,7 +4,8 @@
 <p align="center">
 <!-- old:  01001000+01000101+01001110+01010100+01000001+01001001-->
 <!-- new:  01010111+01100101+01101100+01100011+01101111+01101101+01100101-->
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=15&duration=3500&pause=1000&color=E46D91&center=true&width=435&lines=01010111+01100101+01101100+01100011+01101111+01101101+01100101"></img>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=15&duration=3500&pause=1000&color=E46D91&center=true&width=435&lines=01010111+01100101+01101100+01100011+01101111+01101101+01100101"></img> -->
+  <img src="./img/cat.gif" alt="cat" width="100">
 </p>
 
 
