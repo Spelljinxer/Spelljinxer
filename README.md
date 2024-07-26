@@ -73,7 +73,7 @@
 <div align="center">
 
 ```scala
-"jus vibin'"
+"jus vibin"
 - someone, probably. idk
 ```
 </div>
