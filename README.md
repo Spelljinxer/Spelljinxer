@@ -1,10 +1,8 @@
 <!-- Author: Spelljinxer -->
 <img align="center" src="./img/flowers.png">
-<br>
 <p align="center">
   <img src="./img/cat2.gif" alt="cat" width="145">
 </p>
-
 <div align="center">
 
 # Hello! 👋
