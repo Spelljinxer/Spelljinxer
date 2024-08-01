@@ -36,7 +36,12 @@
 * 💙 Programming, Graphic Design
 * 🌐 <a href="https://spelljinxer.github.io/">spelljinxer.github.io</a>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,git,github,arch,ubuntu,kali&perline=15)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,mysql,git,github,linux,arch,ubuntu,kali,neovim,vim&perline=8" />
+  </a>
+</p>
 
 </p>
 
