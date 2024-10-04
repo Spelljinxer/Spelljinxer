@@ -14,6 +14,7 @@
 * 📆 24/07/02
 * 🎓 BSc. Computer Science - <a href="https://www.uwa.edu.au/">The University of Western Australia</a>
 <img src="./img/test1.gif" align="right" width=200px></img>
+* 💼 Teracloud ApS
 * ❤️ Anime and Gaming
   * <details><summary>📺 Favourite Animes</summary>
     <ul>
