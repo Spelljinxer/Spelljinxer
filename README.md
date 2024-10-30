@@ -27,7 +27,6 @@
     <ul>
       <li><img width=20 src="./img/genshinicon.png"> Genshin Impact</li>
       <li><img width=20 src="./img/nikke.png"> Goddess of Victory: Nikke </li>
-      <li><img width=20 src="./img/wuwa.png"> Wuthering Waves </li>
       <li><img width=20 src="./img/emil.png"> Nier Replicant / Automata</li>
       <li><img width=20 src="./img/2hu.ico"> Touhou Project</li>
     </ul>
