@@ -32,6 +32,7 @@
     </ul>
     </details>
 * 💙 Programming, Graphic Design
+* 💚 DIVE into IVE
 * 🌐 <a href="https://spelljinxer.github.io/">spelljinxer.github.io</a>
 <br><br>
 <p align="center">
