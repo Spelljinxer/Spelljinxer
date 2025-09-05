@@ -25,8 +25,8 @@
     </details>
   * <details><summary>🎮 Favourite Games</summary>
     <ul>
-      <li><img width=20 src="./img/genshinicon.png"> Genshin Impact</li>
-      <li><img width=20 src="./img/nikke.png"> Goddess of Victory: Nikke </li>
+      <li>🌊 Wuthering Waves</li>
+      <li>⌛Black Desert Online </li>
       <li><img width=20 src="./img/emil.png"> Nier Replicant / Automata</li>
       <li><img width=20 src="./img/2hu.ico"> Touhou Project</li>
     </ul>
